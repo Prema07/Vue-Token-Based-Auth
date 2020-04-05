@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "1234",
+      "title": "HTML5 Standards & Best Practices",
+      "time": "12:00",
+      "date": "Apr 22, 2020"
+    },
+    {
+      "id": "1584",
+      "title": "Javascript Essential Training",
+      "time": "9:00",
+      "date": "May 4, 2020"
+    },
+    {
+      "id": "2794",
+      "title": "React Training",
+      "time": "1:00",
+      "date": "June 12, 2020"
+    },
+    {
+      "id": "4619",
+      "title": "Vuex Training",
+      "time": "8:00",
+      "date": "July 28, 2020"
+    }
+  ]
+}
